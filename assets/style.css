@@ -18,10 +18,10 @@
 .profile-container {
 	display: grid;
 	place-items: center;
-	margin-top: 30vh;
+	margin-top: 20vh;
 }
 .profile-container h1 {
-	margin-top: 10px 0;
+	margin-top: 20px 0;
 }
 .profile-container span {
 	font-family: "Barlow", "sans-serif;";
